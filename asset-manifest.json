@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-doto-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/my-doto-app/static/js/main.97687b1c.chunk.js",
+    "main.js.map": "/my-doto-app/static/js/main.97687b1c.chunk.js.map",
+    "runtime-main.js": "/my-doto-app/static/js/runtime-main.3fc8c690.js",
+    "runtime-main.js.map": "/my-doto-app/static/js/runtime-main.3fc8c690.js.map",
+    "static/js/2.e6b61271.chunk.js": "/my-doto-app/static/js/2.e6b61271.chunk.js",
+    "static/js/2.e6b61271.chunk.js.map": "/my-doto-app/static/js/2.e6b61271.chunk.js.map",
+    "index.html": "/my-doto-app/index.html",
+    "precache-manifest.75874ea6b2a687bb10b4c16130ef78c4.js": "/my-doto-app/precache-manifest.75874ea6b2a687bb10b4c16130ef78c4.js",
+    "service-worker.js": "/my-doto-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/my-doto-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e6b61271.chunk.js.LICENSE.txt": "/my-doto-app/static/js/2.e6b61271.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fc8c690.js",
+    "static/js/2.e6b61271.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.97687b1c.chunk.js"
+  ]
+}
